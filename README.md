@@ -1,1 +1,1 @@
-# silver-octo-goggles
+# sudoku in java standalone
